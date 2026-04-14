@@ -52,3 +52,4 @@ const GameStatus = ({ winner, isDraw, currentPlayer }: GameStatusProps) => {
 
 export default GameStatus;
  
+ 

@@ -70,3 +70,4 @@ const ScoreBoard = ({ scores, currentPlayer }: ScoreBoardProps) => {
 
 export default ScoreBoard;
  
+ 

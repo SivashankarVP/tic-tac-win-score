@@ -34,3 +34,4 @@ const GameControls = ({ onNewGame, onResetScores, gameOver }: GameControlsProps)
 
 export default GameControls;
  
+ 

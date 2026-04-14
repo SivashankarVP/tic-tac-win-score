@@ -55,4 +55,4 @@ The app will be available at `http://localhost:8080`.
 
 ---
 
-Developed with ❤️ by [Sivashankar](https://github.com/SivashankarVP)
+Developed with ❤️ by [Sivashankar](https://github.com/SivashankarVP) 
